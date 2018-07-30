@@ -1,5 +1,5 @@
 # Guidelines
-#<CENTER>Google Java编码规范</CENTER>
+# Google Java编码规范
 
 <h2 id="introduction">前言</h2>
 这份文档是Google Java编程风格规范的完整定义。当且仅当一个Java源文件符合此文档中的规则， 我们才认为它符合Google的Java编程风格。
